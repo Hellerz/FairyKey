@@ -1,0 +1,14 @@
+C:\GIT\GoFishing\GoFishing\GoFishing\bin\Debug\GoFishing.exe.config
+C:\GIT\GoFishing\GoFishing\GoFishing\bin\Debug\GoFishing.exe
+C:\GIT\GoFishing\GoFishing\GoFishing\bin\Debug\GoFishing.pdb
+C:\GIT\GoFishing\GoFishing\GoFishing\bin\Debug\DmLoader.dll
+C:\GIT\GoFishing\GoFishing\GoFishing\bin\Debug\DmLoader.pdb
+C:\GIT\GoFishing\GoFishing\GoFishing\obj\Debug\GoFishing.csprojResolveAssemblyReference.cache
+C:\GIT\GoFishing\GoFishing\GoFishing\obj\Debug\GoFishing.Properties.Resources.resources
+C:\GIT\GoFishing\GoFishing\GoFishing\obj\Debug\GoFishing.csproj.GenerateResource.Cache
+C:\GIT\GoFishing\GoFishing\GoFishing\obj\Debug\GoFishing.exe
+C:\GIT\GoFishing\GoFishing\GoFishing\obj\Debug\GoFishing.pdb
+C:\GIT\GoFishing\GoFishing\GoFishing\obj\Debug\GoFishing.DashBoard.resources
+C:\GIT\GoFishing\GoFishing\bin\Debug\GoFishing.exe.config
+C:\GIT\GoFishing\GoFishing\obj\Debug\GoFishing.exe
+C:\GIT\GoFishing\GoFishing\obj\Debug\GoFishing.pdb

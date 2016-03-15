@@ -1,0 +1,1 @@
+regsvr32 /u C:\GIT\GoFishing\GoFishing\GoFishing\bin\Debug\dm.dll

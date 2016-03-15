@@ -1,0 +1,5 @@
+C:\GIT\GoFishing\GoFishing\DmLoader\bin\Debug\DmLoader.dll
+C:\GIT\GoFishing\GoFishing\DmLoader\bin\Debug\DmLoader.pdb
+C:\GIT\GoFishing\GoFishing\DmLoader\obj\Debug\DmLoader.csprojResolveAssemblyReference.cache
+C:\GIT\GoFishing\GoFishing\DmLoader\obj\Debug\DmLoader.dll
+C:\GIT\GoFishing\GoFishing\DmLoader\obj\Debug\DmLoader.pdb
